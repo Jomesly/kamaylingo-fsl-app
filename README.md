@@ -1,6 +1,8 @@
 # kamaylingo
 
-A new Flutter project.
+KamayLingo: Filipino Sign Language (FSL) Mobile Learning Application
+
+HandLingo is a mobile Flutter project learning application designed to teach Filipino Sign Language (FSL) to both differently-abled individuals and those without hearing impairments. The app focuses on reducing communication barriers by providing structured lessons, assessments, and guided group learning sessions. Using the Flutter framework, HandLingo emphasizes accessibility, usability, and inclusive design to support effective learning on mobile devices.
 
 ## Getting Started
 
